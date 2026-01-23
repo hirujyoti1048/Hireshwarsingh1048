@@ -180,7 +180,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+96cGXi5nnW02YTg1')
 
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/movies_channel_1048')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+kqG7H0XkiU0zYmQ9')
 
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+kqG7H0XkiU0zYmQ9') # Support Chat Link Without https:// or @
 
@@ -258,7 +258,7 @@ SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Linkshortify.com')
 
 SHORTLINK_API = environ.get('SHORTLINK_API', '61b6fa31fb151fbf913c401b3405c8d154e5cf07')
 
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/+kqG7H0XkiU0zYmQ9') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/movies_channel_1048') # How Open Shortner Link Video Link , Channel Link Where You Upload Your Video.
 
 
 
@@ -393,6 +393,7 @@ else:
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
