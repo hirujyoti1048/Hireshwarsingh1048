@@ -98,7 +98,7 @@ INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
 
 # This Is Your Bot Support Group Id , Here Bot Will Not Give File Because This Is Support Group.
 
-support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1003261365367')
+support_chat_id = environ.get('SUPPORT_CHAT_ID', '-5185036777')
 
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 
@@ -182,7 +182,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+96cGXi5nnW02YTg1')
 
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+kqG7H0XkiU0zYmQ9')
 
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+kqG7H0XkiU0zYmQ9') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+vQDVlRMBMS5kNDVl') # Support Chat Link Without https:// or @
 
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/+kqG7H0XkiU0zYmQ9')
 
@@ -393,6 +393,7 @@ else:
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 
 # Ask Doubt on telegram @KingVJ01
+
 
 
 
